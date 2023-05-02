@@ -8,14 +8,14 @@
 ![Proje](https://kodluyoruz.org/wp-content/uploads/2022/05/kodluyoruz_yatay_slogan-300x35.png)
 
 
-Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğum Html Bölüm sonu Reposu. İçerisinde bir adet README dosyası, üç adet de .html uzantısı dosya barındırıyor.
+Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğum Html ödev Reposu. İçerisinde bir adet README dosyası, 1 adet .html uzantısı dosya barındırıyor.
 
 ## Installation
 
 Öncelikle projeyi clonelayın.
 
 ```
-https://github.com/Mucahid-Canbey/Html-Odev-1-2.git
+https://github.com/mucahidcanbey/html_odev_3.git
 ```
 
 ## Usage
@@ -25,7 +25,7 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 Linux için:
 
 ```
-cd kodluyoruzilkrepo
+cd html_odev_3
 code .
 ```
 
