@@ -5,7 +5,7 @@
 
 ---
 
-![Proje](images/gitProje.PNG)
+![Proje](https://kodluyoruz.org/wp-content/uploads/2022/05/kodluyoruz_yatay_slogan-300x35.png)
 
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğum Html Bölüm sonu Reposu. İçerisinde bir adet README dosyası, üç adet de .html uzantısı dosya barındırıyor.
